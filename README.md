@@ -18,7 +18,10 @@ _~~개인적인 취향~~_
 
 ### Bookmarklets
 
-북마크에 자바스크립트 코드를 작성해 자바스크립트 코드를 실행합니다.<br>
+북마크에 자바스크립트 코드를 작성해 자바스크립트 코드를 실행합니다.
+
+<img src="https://github.com/young-sinf/velog-write-swap/blob/main/%08add-bookmark.png" />
+
 북마크 url에 다음과 같이 코드를 작성하면, 북마크로 자바스크립트 코드를 실행할 수 있습니다.
 
 ```txt
